@@ -60,11 +60,8 @@ The dashboard integrates data from multiple tables using a star schema structure
 ### Data Model
 ![Data Modeling](./images/image2.png)
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Author
-[LAKNIN SAAD](https://github.com/your-username)
+[LAKNIN SAAD](https://github.com/Saad-Lk/)
 
 ## Feedback and Contributions
 Feedback and contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
