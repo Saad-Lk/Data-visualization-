@@ -62,7 +62,3 @@ The dashboard integrates data from multiple tables using a star schema structure
 
 ## Author
 [LAKNIN SAAD](https://github.com/Saad-Lk/)
-
-## Feedback and Contributions
-Feedback and contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
-
